@@ -19,4 +19,6 @@ The first run downloads the IMDb dataset (about 66 MB), so internet access is re
 
 Dataset source: IMDb 50K Movie Reviews dataset hosted on Zenodo, originally associated with the Stanford Large Movie Review Dataset.
 <img width="895" height="882" alt="Screenshot 2026-11-18 101906" src="https://github.com/user-attachments/assets/cf1602b4-ec58-4bc7-9593-08300500679f" />
+<img width="528" height="492" alt="Screenshot 2026-11-18 102004" src="https://github.com/user-attachments/assets/15297457-ae93-46b4-9e94-bfb86a7bcb12" />
+
 
