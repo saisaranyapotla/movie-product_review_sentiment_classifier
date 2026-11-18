@@ -1,4 +1,3 @@
-# Movie Review Sentiment Classifier
 
 This project trains a machine-learning sentiment classifier on the IMDb 50K Movie Reviews dataset (50,000 labeled reviews: positive and negative).
 
